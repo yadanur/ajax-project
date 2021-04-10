@@ -1,0 +1,34 @@
+body {
+  background-color: black;
+}
+
+button {
+  background-color: #2caf30;
+  padding: 10px;
+}
+
+p.disclaimer {
+  color: azure;
+  font-size: small;
+}
+
+.header-container {
+  font-size: 50px;
+  color: #cdf5ce;
+  text-align: center;
+  display: block;
+  border-top: 5px double #5fb362;
+  border-bottom: 5px double #5fb362;
+  margin: 1% 10% 1% 10%;
+}
+
+.main-image {
+  max-height: 200px;
+  margin-top: 10px;
+}
+
+.input-box {
+  font-size: larger;
+  padding-left: 5%;
+  font-weight: bold;
+}
